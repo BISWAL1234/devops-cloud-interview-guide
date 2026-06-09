@@ -38,4 +38,4 @@ While `git pull` is faster, it can cause **unintended merges** if you’re not r
 > Use `git fetch` when you want control.  
 > Use `git pull` when you’re ready to sync changes directly.
 
----GIT-----V.20
+---GIT-----V.21
